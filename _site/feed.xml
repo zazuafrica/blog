@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZazuPay</title>
+    <description>Africa’s first digital only bank.
+</description>
+    <link>https://ilovezazu.com/</link>
+    <atom:link href="https://ilovezazu.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 08 Jun 2017 12:06:50 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2017 12:06:50 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to Zazu</title>
+        <description>&lt;p&gt;It’s Zazu!&lt;/p&gt;
+
+&lt;p&gt;Zazu wants to be Africa’s first digital-only bank. We want to provide a service that other banks cannot offer, but that everyone wants: a bank that is easy to approach, that tells you exactly what you are paying for &amp;amp; why and takes away all unnecessary fees. We want to build a bank that helps you manage your money better, so that you can achieve your objectives, from building a house to a weekend escape. &lt;/p&gt;
+
+&lt;p&gt;Extremely bad service is very very common among African banks. From the scary security guards outside, to the grumpy overworked bank teller. Most banks seem to be relics to colonialism in which the customer is made to feel uncomfortable. Despite giving them your money. There is no reason why in today’s age we should still feel down when heading to the bank knowing the queue we’ll be facing. Nor should we get demoralised by the amount of paperwork to fill in to simply open an account. Not to talk about the money disappearing from our accounts when we use the ATM. Zazu wants to answer all of these questions and more.  We are building a bank that you will love to be part of, a bank which answers your needs. &lt;/p&gt;
+
+&lt;p&gt;Here is the roadmap. &lt;/p&gt;
+
+&lt;p&gt;In September 2017 we will launch with 1500 pre paid debit cards. We want to give these out to people who regularly use cards to make payments, because we want to understand how to develop our app to be the best it can. &lt;/p&gt;
+
+&lt;p&gt;In November 2017 we will release Zazu Pay. Which will allow merchants across the country to accept digital payments. Easily. &lt;/p&gt;
+
+&lt;p&gt;In January 2018, we hope to have received the Banking Licence from the Bank of Zambia and we hope to launch our digital bank only. &lt;/p&gt;
+
+&lt;p&gt;You can also follow us on Facebook &amp;amp; Twitter, or reach us at: hello@ilovezazu.com &lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Jun 2016 12:10:00 +0100</pubDate>
+        <link>https://ilovezazu.com/mediator/feature/2016/06/08/welcome-to-zazu.html</link>
+        <guid isPermaLink="true">https://ilovezazu.com/mediator/feature/2016/06/08/welcome-to-zazu.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>mediator</category>
+        
+        <category>feature</category>
+        
+      </item>
+    
+  </channel>
+</rss>
