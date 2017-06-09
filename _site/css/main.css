@@ -168,7 +168,8 @@ body {
   height: 48px;
   background-color: #441559;
   overflow: hidden;
-  z-index: 99; }
+  z-index: 99;
+  border: 1px solid white; }
   .logo-readium .logo {
     display: block;
     position: absolute;
