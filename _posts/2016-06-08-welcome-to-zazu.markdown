@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Zazu"
-date:   2016-06-08 11:10:00
+date:   2017-06-10 13:06:00
 categories: ZazuPay
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
