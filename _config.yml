@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "ZazuPay"
 description: > # this means to ignore newlines until "email:"
-   Africa’s first digital only bank.
+   Building Africa’s first digital only bank.
 
 email: hello@ilovezazu.com
 #blog logo
