@@ -6,26 +6,9 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Jun 2017 13:22:56 +0100</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2017 13:22:56 +0100</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2017 13:43:44 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 13:43:44 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Test Post</title>
-        <description>&lt;h2 id=&quot;testing-posts&quot;&gt;Testing posts&lt;/h2&gt;
-
-&lt;p&gt;posts posts posts posts&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Jun 2017 12:21:00 +0100</pubDate>
-        <link>/zazupay/2017/06/12/testpost.html</link>
-        <guid isPermaLink="true">/zazupay/2017/06/12/testpost.html</guid>
-        
-        <category>featured</category>
-        
-        
-        <category>zazupay</category>
-        
-      </item>
     
       <item>
         <title>What Do Banks Really Do?</title>
