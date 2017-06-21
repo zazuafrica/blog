@@ -21,7 +21,7 @@ name: 'ZazuPay'
 author: 'ZazuPay'
 author_image: "/assets/images/zazu.jpg"
 
-paginate:	5
+paginate:	10
 
 url: "blog.ilovezazu.com" # the base hostname & protocol for your site
 baseurl: ""
